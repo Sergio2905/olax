@@ -704,6 +704,7 @@ body._lock {
   font-weight: 600;
   margin-bottom: 16px;
   text-align: center;
+  color: var(--black);
 }
 
 .product__btn {
@@ -1136,6 +1137,7 @@ body._lock {
   text-align: center;
   margin: 32px auto 0;
   display: block;
+  color: var(--black);
 }
 
 .properties__btn.active span:nth-child(1) {
@@ -1227,6 +1229,7 @@ body._lock {
   text-align: center;
   margin: 32px auto 0;
   display: block;
+  color: var(--black);
 }
 
 .feedbacks__btn.active span:nth-child(1) {
