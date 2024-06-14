@@ -747,7 +747,7 @@ body._lock {
   left: 10px;
   top: 50%;
   transform: translate(0, -50%);
-  background: url("../../img/icons/icons.svg#check-green") center/contain no-repeat;
+  background: url("../img/icons/icons.svg#check-green") center/contain no-repeat;
 }
 
 .plus__body span {
